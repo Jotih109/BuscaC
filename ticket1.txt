@@ -1,0 +1,4 @@
+--- TICKET GERADO ---
+Numero do Ticket: 1045
+Nome do Cliente: Ana Silva
+---------------------
